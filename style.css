@@ -1,0 +1,47 @@
+/*@import url('https://fonts.googleapis.com/css?family=Sansita');
+html,body{
+    margin:0;
+    padding:0;
+    height:100%;
+}
+
+.home-page {
+    background:url("https://cdnb3.artstation.com/p/assets/images/images/001/802/595/medium/nathan-monaghan-jakkusunsetwallpaper.jpg?1452967453") no-repeat center center fixed;
+    text-align: center;
+    -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  font-family: 'Sansita', sans-serif;
+  height:100%
+}
+.header-homepage {
+color:white;
+font-size:50px;
+padding-top:0%;
+    
+    
+}
+.home-quote {
+    color:white;
+    font-size:50px;
+}
+button{
+    font-family: 'Sansita', sans-serif;
+    border:7px white;
+    background:white;
+    padding:10px 25px 10px 25px;
+    
+}
+.page-2 {
+    background:url("http://dcervin.com/i/2017/01/lion-wallpaper-iphone.jpg") no-repeat center center fixed;
+    text-align: center;
+    -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  font-family: 'Sansita', sans-serif;
+  height:100%
+    
+    
+}*/
